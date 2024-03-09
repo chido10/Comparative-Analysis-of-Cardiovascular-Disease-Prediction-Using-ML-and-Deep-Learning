@@ -1,5 +1,4 @@
 # Comparative-Analysis-of-Cardiovascular-Disease-Prediction-Using-ML-and-Deep-Learning
-Comparative analysis: ML vs. Deep Learning for Cardiovascular Disease Prediction
 This research investigates the potential of using physiological signs, including respiratory rate, blood pressure, body 
 temperature, heart rate, and oxygen saturation, to predict cardiovascular disease (CVD) in humans. Machine learning (ML) and deep 
 learning (DL) models were employed to determine the most effective prediction model by comparing their performance metrics to a 
