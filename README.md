@@ -47,3 +47,6 @@ Model Selection: We carefully selected appropriate algorithms, considering facto
 ### Human Biophysical Parameters
 
 The project is built upon the foundation of human biophysical parameters, serving as crucial indicators for monitoring and intervening in cardiovascular disease (CVD) patients, facilitating both long-term and near-term risk assessment. These parameters, including heart rate, respiration rate, blood pressure, and oxygen saturation, play a pivotal role in assessing overall health and predicting the risk of CVD development. Through meticulous analysis and interpretation of these vital signs, the project aims to enhance early detection, intervention, and management strategies for individuals susceptible to CVD, thereby contributing to improved patient outcomes and reduced cardiovascular morbidity and mortality rates.
+
+### Link to the complete project
+https://www.ijsr.net/archive/v12i8/SR23809044938.pdf
